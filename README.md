@@ -1,6 +1,3 @@
-## Oiii! Eu sou a Ana Flávia,
-
-👩‍💻 Desenvolvedora Front-End
 
 <div align="left">
   <a href="https://github.com/anafssilva">
