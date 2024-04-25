@@ -1,7 +1,7 @@
 
 <div align="left">
   <a href="https://github.com/anafssilva">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anafssilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anafssilva&show_icons=true&theme=bear"/>
     <div>
 <div style="display: inline_block"><br>
 <img  align="center"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
