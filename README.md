@@ -1,8 +1,15 @@
 
 <div align="left">
-  <a href="https://github.com/anafssilva">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anafssilva&show_icons=true&theme=synthwave"/>
-    <div>
+  <img src="https://github-readme-stats.vercel.app/api?username=anafssilva&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="180em" alt="stats graph" />
+</div>
+
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anafssilva&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="180em" alt="languages graph"  />
+</div>
+
+
+
 <div style="display: inline_block"><br>
 <img  align="center"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="center"  width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
@@ -20,10 +27,6 @@
 </div>
 <div style="display: inline_block"><br>
 <img align="center"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" />   
-</div>
-  
+</div>  
   ##
 
- <div>
- <a href="https://www.instagram.com/aninhahssilva" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- badge&logo=instagram&logoColor=white" target="_blank"></a> 
- </div>
